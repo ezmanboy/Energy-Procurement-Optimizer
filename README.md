@@ -4,6 +4,14 @@ A backend service (with a web dashboard) that computes the most cost-effective p
 
 Given hourly prices, hourly demand, and a set of available discount packages, the solver determines which packages to buy, when to start them, and how to allocate energy — minimizing the total cost across the entire timeline.
 
+## screenshots
+
+![Dashboard](screenshots/1.png)
+![Dashboard](screenshots/2.png)
+![Dashboard](screenshots/3.png)
+![Dashboard](screenshots/4.png)
+![Dashboard](screenshots/5.png)
+
 ## Quick Start
 
 ```bash
